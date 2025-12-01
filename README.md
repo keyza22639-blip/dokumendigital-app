@@ -32,7 +32,6 @@ Sistem Manajemen Arsip Dokumen Digital (E-Arsip) adalah website yang sangat berg
 ## Tools yang Digunakan
 * Visual Studio Code (VS Code)
 * Git
-* JavaScript (JS)
 
 ---
 
@@ -40,4 +39,6 @@ Sistem Manajemen Arsip Dokumen Digital (E-Arsip) adalah website yang sangat berg
 * PHP versi 8.2.12
 * Server Web (misalnya Apache atau Nginx)
 * Basis Data (MySQL)
-"@
+
+### Skema Basis Data (ERD)
+![Diagram ERD Sistem E-Arsip Digital](public/img/erd_arsip_digital.jpg)
